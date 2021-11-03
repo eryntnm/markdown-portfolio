@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# ErynMoore
+## 1st year game design student
+###### Midterm test
